@@ -24,6 +24,6 @@ On Android use the separate Bold family name rather than `fontWeight`.
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/grootismore/thaananoor-font@v1.0.0/css/thaana-noor.css">
 <p lang="dv" style="font-family:'Thaana Noor';direction:rtl">ދިވެހި</p>
 ```
-`@v1.0.0` pins this release; use `@main` only to follow the latest changes. Note: U+07B1 (naa) has no glyph yet.
+`@v1.0.0` pins this release; use `@main` only to follow the latest changes.
 
 ![Specimen](docs/specimen.png)
