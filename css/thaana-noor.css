@@ -1,0 +1,5 @@
+@font-face{font-family:"Thaana Noor";font-weight:400;font-style:normal;font-display:swap;
+  src:url("../dist/webfonts/ThaanaNoor-Regular.woff2") format("woff2"),url("../dist/ttf/ThaanaNoor-Regular.ttf") format("truetype")}
+@font-face{font-family:"Thaana Noor";font-weight:700;font-style:normal;font-display:swap;
+  src:url("../dist/webfonts/ThaanaNoor-Bold.woff2") format("woff2"),url("../dist/ttf/ThaanaNoor-Bold.ttf") format("truetype")}
+.dhivehi{font-family:"Thaana Noor",sans-serif;direction:rtl;unicode-bidi:plaintext;line-height:1.9}
